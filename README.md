@@ -13,11 +13,11 @@ imprimir el primer código.
 
 # Instrucciones de ejecución
 1. Asegúrate de tener Python instalado de lo contrario dirigase a la siguiente paguina web y descarguelo https://www.python.org/downloads/
-   se recomienda que instale la ultima versión. ![alt text](image-1.png)
+   se recomienda que instale la ultima versión.
 
-2. Descargue los archivos "pelicula.py" y "main.py" para que no suceda ningun error ![alt text](image-2.png)
+2. Descargue los archivos "pelicula.py" y "main.py" para que no suceda ningun error.
 
-3. vaya al archivo "main.py" y ejecutelo ![alt text](image-3.png)
+3. vaya al archivo "main.py" y ejecutelo.
 
 # Autor
 David Styvenn Barcos Jurado
